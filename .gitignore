@@ -1,0 +1,17 @@
+.rebar3
+_*
+.eunit
+*.o
+*.beam
+*.plt
+*.swp
+*.swo
+.erlang.cookie
+ebin
+log
+.rebar
+logs
+_build
+.idea
+cops.iml
+rebar.lock
